@@ -1,4 +1,4 @@
-# 3dsrnet
+# 3D_SR_Net
 3D Shallow Residual Network
 
 Major developement in this repository is based on NiftyNet which is a TensorFlow-based open-source convolutional neural networks (CNN) platform for research in medical image analysis. Installation instructions can be obtained from [NiftyNet](https://pypi.org/project/NiftyNet) website
