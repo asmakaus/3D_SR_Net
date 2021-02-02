@@ -5,8 +5,8 @@ Major developement in this repository is based on NiftyNet which is a TensorFlow
 Installation instructions can be obtained from [NiftyNet](https://pypi.org/project/NiftyNet) website
 After installation, copy the following files in respective directories
 
-### network/3d_sr_net.py
-### engine/application_factory.py _(replace)
+##### network/3d_sr_net.py
+##### engine/application_factory.py _(replace)
 
 
 configuration file for training is provided in the main directory.
