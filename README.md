@@ -16,10 +16,9 @@ After installation, copy the provided files in respective directories e.g.
 ##### *  engine/application_factory.py _(replace)
 
 
-configuration file for training can be found in the main directory. 
+configuration is availabe in the main directory. We recommend using niftynet (CLI) guidelines to use this implementation.
 
-
-
+This repository will be transferred to MONAI soon
 
 
 
