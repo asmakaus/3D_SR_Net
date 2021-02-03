@@ -16,9 +16,9 @@ After installation, copy the provided files in respective directories e.g.
 ##### *  engine/application_factory.py _(replace)
 
 
-configuration is availabe in the main directory. We recommend using niftynet (CLI) guidelines to use this implementation.
+evaluation and configuration files are availabe in the main directory. We recommend using niftynet (CLI) guidelines to use this implementation.
 
-This repository will be transferred to MONAI soon
+This repository will be transferred to MONAI soon, as NiftyNet is no longer accepting extensions.
 
 
 
